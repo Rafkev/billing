@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX_ITEMS 100
+#define MAX_ITEMS 100 
 
 typedef struct {
     char name[50];
